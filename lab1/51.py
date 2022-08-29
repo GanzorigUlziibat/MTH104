@@ -1,4 +1,5 @@
-n = 8134
+n = int(input())
+# n = 8134
 s = 1
 while(n > 0):
     a = n % 10
