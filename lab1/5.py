@@ -1,4 +1,4 @@
-n = int(input())
+n = int(input())  # гараас утга оруулна
 s = 0
 while (n > 0):
     a = n % 10
